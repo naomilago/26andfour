@@ -1,4 +1,4 @@
-<h1 align="center">26andfour </h1> 
+<h1 align="center">:gem:26andfour:gem:</h1> 
 <p align="center">
   <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#octocat-project">Project</a>
@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ## :octocat: Project
 
-<p>This repository was created for improving and fixing my knowledge about HTML, CSS and Javascript.</p><br>
+<p>This repository was created for improving and fixing my knowledge about HTML, CSS and Javascript.</p>
 <p>For that, I followed a fast Youtube tutorial and you can check it out <a href="https://www.youtube.com/watch?v=8gNrZ4lAnAw">right here</a></p>
 ---
 
