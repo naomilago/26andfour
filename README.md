@@ -24,4 +24,4 @@ This project was developed with the following technologies:
 <p>For that, I followed a fast Youtube tutorial and you can check it out <a href="https://www.youtube.com/watch?v=8gNrZ4lAnAw">right here</a></p>
 ---
 
-Made with :heartbeat: by [AbnerLago](https://www.abnerlago.com/) 
+Made with :heartbeat: by [Naomi Lago](https://naomilago.neltlify.com/) 
